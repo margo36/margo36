@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Margarita :raising_hand:  
+
+Мои проекты
+
+| Название проекта | Используемые библиотеки |
+| :--------------------: |:---------------------------:|
+| [Анализ убытков приложения ProcrastinatePRO+](https://github.com/margo36/yandex_projects/tree/main/bisiness_indicators)| Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики,Seaborn|
+| [Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста](https://github.com/margo36/yandex_projects/tree/main/bisiness_indicators) |  Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических гипотез |
 
 <!--
 **margo36/margo36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
